@@ -1,4 +1,8 @@
 # thing-to-do-after-install-raspberypi-4
+##  root password
+```bash
+passwd root 
+```
 ### Step 1: 📦 APT Package Manager & System Update
 
 ```bash
